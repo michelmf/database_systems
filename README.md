@@ -6,15 +6,15 @@ Material do curso de Banco de dados 2022/1 @ CEFET/PPCIC
 
 ### Tarefa 1: Processamento de consultas
 
-A descrição da tarefa 1 está no seguinte (link)[].
+A descrição da tarefa 1 está no seguinte (link)[https://github.com/michelmf/database_systems/tree/main/tarefa_1].
 
 ### Tarefa 2: Otimização de consultas
 
-A descrição da tarefa 2 está no seguinte (link)[].
+A descrição da tarefa 2 está no seguinte (link)[https://github.com/michelmf/database_systems/tree/main/tarefa_2].
 
 ### Tarefa 3: Processamento e Otimização de Consultas
 
-A descrição da tarefa 3 está no seguinte (link)[].
+A descrição da tarefa 3 está no seguinte (link)[https://github.com/michelmf/database_systems/tree/main/tarefa_3].
 
 ### Trabalho final
 
