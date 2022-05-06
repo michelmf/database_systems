@@ -2,21 +2,15 @@
 
 Material do curso de Banco de dados 2022/1 @ CEFET/PPCIC
 
-## Tarefas
+## Trabalhos
 
-### Tarefa 1: Processamento de consultas
+* Tarefa 1: Processamento de consultas: [link](https://github.com/michelmf/database_systems/tree/main/tarefa_1).
 
-A descrição da tarefa 1 está no seguinte [link](https://github.com/michelmf/database_systems/tree/main/tarefa_1).
+* Tarefa 2: Otimização de consultas: [link](https://github.com/michelmf/database_systems/tree/main/tarefa_2).
 
-### Tarefa 2: Otimização de consultas
+* Tarefa 3: Processamento e Otimização de Consultas: [link](https://github.com/michelmf/database_systems/tree/main/tarefa_3).
 
-A descrição da tarefa 2 está no seguinte [link](https://github.com/michelmf/database_systems/tree/main/tarefa_2).
-
-### Tarefa 3: Processamento e Otimização de Consultas
-
-A descrição da tarefa 3 está no seguinte [link](https://github.com/michelmf/database_systems/tree/main/tarefa_3).
-
-### Trabalho final
+* Trabalho final: [link]()
 
 Nesta avaliação, o objetivo dos grupos será o de comparar o desempenho do SGBD relacional PostgreSQL 14.x com um SGBD que utilize a abordagem NoSQL. O PostgreSQL está disponível em várias distribuições em https://www.postgresql.org/.
 
