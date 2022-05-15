@@ -3,7 +3,7 @@
 Nesta tarefa, vocês devem assistir os vídeos do curso "Curso Sistemas de Gerenciamento de Bancos de Dados - Unidade V (Processamento de Consultas)". Seguem os links abaixo:
 
 
-* Aula 1  - [Conceitos Básicos"](https://www.youtube.com/watch?v=G3UD0kyH-FQ&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=17)
+* Aula 1  - [Conceitos Básicos](https://www.youtube.com/watch?v=G3UD0kyH-FQ&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=17)
 * Aula 2  - [Visão Geral"](https://www.youtube.com/watch?v=1lc2BCeuma4&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=18) 
 * Aula 3  - [Parsing](https://www.youtube.com/watch?v=gHnxqDQsoSU&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=19)
 * Aula 4  - [Reescrita da Consulta](https://www.youtube.com/watch?v=AtockMlNUEE&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=20) 
