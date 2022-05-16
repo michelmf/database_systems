@@ -9,7 +9,7 @@ Nesta tarefa, vocês devem assistir os vídeos do curso "Curso Sistemas de Geren
 * Aula 4  - [Reescrita da Consulta](https://www.youtube.com/watch?v=AtockMlNUEE&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=20) :white_check_mark:
 * Aula 5  - [Seleção do QEP](https://www.youtube.com/watch?v=9l99Pjs1e3Y&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=21) :white_check_mark:
 * Aula 6  - [Execução do QEP](https://www.youtube.com/watch?v=XFCZZsUKrIM&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=22) :white_check_mark:
-* Aula 7  - [Catálogo e Metadados](https://www.youtube.com/watch?v=MBsrng8foC4&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=23)
+* Aula 7  - [Catálogo e Metadados](https://www.youtube.com/watch?v=MBsrng8foC4&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=23) :white_check_mark:
 * Aula 8  - [Avaliação de Custos - Conceitos Básicos](https://www.youtube.com/watch?v=zV1deSlnrG4&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=24)
 * Aula 9  - [Avaliação de Custos - O Operador de Seleção](https://www.youtube.com/watch?v=aDKpg2SkYkQ&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=25) 
 * Aula 10 - [Avaliação de Custos - O Operador de Projeção](https://www.youtube.com/watch?v=RB9H4o_7qcM&list=PLuVyaX1aLC-HNNwV8a6_A0bGDBL18nK-s&index=26)
